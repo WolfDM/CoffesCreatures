@@ -1,0 +1,26 @@
+{
+  "group": "coffees_creatures",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "coffees_creatures:dust_copper"
+    },
+    "1": {
+      "item": "coffees_creatures:dust_copper"
+    },
+    "2": {
+      "item": "coffees_creatures:dust_copper"
+    },
+    "3": {
+      "item": "coffees_creatures:dust_zinc"
+    }
+  },
+  "result": {
+    "item": "coffees_creatures:dust_brass",
+    "count": 1
+  }
+}

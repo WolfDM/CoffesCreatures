@@ -1,0 +1,12 @@
+{
+  "group": "coffees_creatures",
+  "type": "minecraft:smelting",
+  "experience": 0.6,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "coffees_creatures:dust_brass"
+  },
+  "result": {
+    "item": "coffees_creatures:ingot_brass"
+  }
+}

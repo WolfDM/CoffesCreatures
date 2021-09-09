@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 0.6,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:OreZinc"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:IngotZinc"
+    },
+    "name": "ingot_zinc_recipe",
+    "namespace": "mod"
+  }
+}

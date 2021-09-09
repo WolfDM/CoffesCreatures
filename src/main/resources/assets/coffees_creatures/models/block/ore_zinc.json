@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "coffees_creatures:blocks/ore_zinc_texture",
+    "particle": "coffees_creatures:blocks/ore_zinc_texture"
+  }
+}

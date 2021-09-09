@@ -1,0 +1,12 @@
+{
+  "group": "coffees_creatures",
+  "type": "minecraft:blasting",
+  "experience": 0.6,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "coffees_creatures:ore_zinc"
+  },
+  "result": {
+    "item": "coffees_creatures:ingot_zinc"
+  }
+}
