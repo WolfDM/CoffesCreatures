@@ -311,6 +311,69 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "ingot_platnum_recipe_blast"
+    },
+    {
+      "name": "Hammer",
+      "type": "tool",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hammer"
+    },
+    {
+      "name": "HammerRecipe",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hammer_recipe"
+    },
+    {
+      "name": "DustCopper",
+      "type": "item",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dust_copper"
+    },
+    {
+      "name": "CopperOreToDustRecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_ore_to_dust_recipe"
+    },
+    {
+      "name": "CopperIngotToDustRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_ingot_to_dust_recipe"
+    },
+    {
+      "name": "DustCopperSmeltingRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dust_copper_smelting_recipe"
+    },
+    {
+      "name": "DustCopperSmeltingBlast",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dust_copper_smelting_blast"
     }
   ],
   "variable_elements": [],
@@ -328,6 +391,7 @@
       "itemGroup.tabcoffees_creatures_tab": "Coffee\u0027s Creatures ",
       "item.coffees_creatures.coin_platnium": "Coin Platnium",
       "item.coffees_creatures.ingot_copper": "Ingot Copper",
+      "item.coffees_creatures.dust_copper": "Copper Dust",
       "item.coffees_creatures.coin_gold": "Coin Gold",
       "block.coffees_creatures.ore_tin": "Ore Tin",
       "block.coffees_creatures.ore_platnum": "Ore Platnum",
@@ -336,7 +400,8 @@
       "item.coffees_creatures.seebee_npc_spawn_egg": "Seebee NPC Spawn Egg",
       "item.coffees_creatures.ingot_platnum": "Ingot Platnum",
       "item.coffees_creatures.coffee": "Coffee",
-      "item.coffees_creatures.coin_silver": "Coin Silver"
+      "item.coffees_creatures.coin_silver": "Coin Silver",
+      "item.coffees_creatures.hammer": "Hammer"
     }
   },
   "foldersRoot": {

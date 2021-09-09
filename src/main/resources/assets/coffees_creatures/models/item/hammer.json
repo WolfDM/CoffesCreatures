@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "coffees_creatures:items/hammer_texture"
+  }
+}

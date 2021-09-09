@@ -1,0 +1,16 @@
+{
+  "group": "coffees_creatures",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "coffees_creatures:hammer"
+    },
+    {
+      "item": "coffees_creatures:ingot_copper"
+    }
+  ],
+  "result": {
+    "item": "coffees_creatures:dust_copper",
+    "count": 1
+  }
+}
