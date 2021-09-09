@@ -1,0 +1,12 @@
+{
+  "group": "coffees_creatures",
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "coffees_creatures:ore_platnum"
+  },
+  "result": {
+    "item": "coffees_creatures:ingot_platnum"
+  }
+}

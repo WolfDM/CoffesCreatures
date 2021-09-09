@@ -1,0 +1,7 @@
+{
+  "parent": "coffees_creatures:custom/key",
+  "textures": {
+    "0": "coffees_creatures:blocks/keyatexture",
+    "particle": "coffees_creatures:items/keyatexture"
+  }
+}

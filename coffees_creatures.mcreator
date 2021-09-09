@@ -1,0 +1,365 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "CoffeeNPCRightClickedOnEntity",
+      "type": "procedure",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coffee_npc_right_clicked_on_entity",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CoffeeNPC",
+      "type": "livingentity",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coffee_npc"
+    },
+    {
+      "name": "BossKey",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "boss_key"
+    },
+    {
+      "name": "CoffeeFoodEaten",
+      "type": "procedure",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coffee_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Coffee",
+      "type": "food",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coffee"
+    },
+    {
+      "name": "CoffeesCreaturesTab",
+      "type": "tab",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coffees_creatures_tab"
+    },
+    {
+      "name": "SeebeeNPC",
+      "type": "livingentity",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seebee_npc"
+    },
+    {
+      "name": "IngotCopper",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ingot_copper"
+    },
+    {
+      "name": "OreCopper",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ore_copper"
+    },
+    {
+      "name": "IngotCopperRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ingot_copper_recipe"
+    },
+    {
+      "name": "IngotCopperRecipeBlast",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ingot_copper_recipe_blast"
+    },
+    {
+      "name": "CoinCopper",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coin_copper"
+    },
+    {
+      "name": "CoinSilver",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coin_silver"
+    },
+    {
+      "name": "CoinGold",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coin_gold"
+    },
+    {
+      "name": "CoinPlatnium",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coin_platnium"
+    },
+    {
+      "name": "TraderGUI",
+      "type": "gui",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "trader_gui"
+    },
+    {
+      "name": "TraderNPCRightClickedOnEntity",
+      "type": "procedure",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "trader_npc_right_clicked_on_entity",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TradeGUITradeing",
+      "type": "procedure",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "trade_gui_tradeing",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "TraderNPC",
+      "type": "livingentity",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "trader_npc"
+    },
+    {
+      "name": "BrissleConePineWood",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brissle_cone_pine_wood"
+    },
+    {
+      "name": "OreTin",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ore_tin"
+    },
+    {
+      "name": "IngotTin",
+      "type": "item",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ingot_tin"
+    },
+    {
+      "name": "IngotTinRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ingot_tin_recipe"
+    },
+    {
+      "name": "IngotTinRecipeBlast",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ingot_tin_recipe_blast"
+    },
+    {
+      "name": "OrePlatnum",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ore_platnum"
+    },
+    {
+      "name": "IngotPlatnum",
+      "type": "item",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ingot_platnum"
+    },
+    {
+      "name": "IngotPlatnumRecipe",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ingot_platnum_recipe"
+    },
+    {
+      "name": "IngotPlatnumRecipeBlast",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ingot_platnum_recipe_blast"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.coffees_creatures.boss_key": "Boss Key",
+      "item.coffees_creatures.coin_copper": "Coin Copper",
+      "entity.coffees_creatures.trader_npc": "Trader NPC",
+      "block.coffees_creatures.ore_copper": "Copper Ore",
+      "block.coffees_creatures.brissle_cone_pine_wood": "Brissle Cone Pine Wood",
+      "item.coffees_creatures.ingot_tin": "Ingot Tin",
+      "entity.coffees_creatures.seebee_npc": "Seebee NPC",
+      "item.coffees_creatures.trader_npc_spawn_egg": "Trader NPC Spawn Egg",
+      "itemGroup.tabcoffees_creatures_tab": "Coffee\u0027s Creatures ",
+      "item.coffees_creatures.coin_platnium": "Coin Platnium",
+      "item.coffees_creatures.ingot_copper": "Ingot Copper",
+      "item.coffees_creatures.coin_gold": "Coin Gold",
+      "block.coffees_creatures.ore_tin": "Ore Tin",
+      "block.coffees_creatures.ore_platnum": "Ore Platnum",
+      "item.coffees_creatures.coffee_npc_spawn_egg": "Coffee NPC Spawn Egg",
+      "entity.coffees_creatures.coffee_npc": "Coffee NPC",
+      "item.coffees_creatures.seebee_npc_spawn_egg": "Seebee NPC Spawn Egg",
+      "item.coffees_creatures.ingot_platnum": "Ingot Platnum",
+      "item.coffees_creatures.coffee": "Coffee",
+      "item.coffees_creatures.coin_silver": "Coin Silver"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "coffees_creatures",
+    "modName": "Coffees Creatures",
+    "version": "1.0.0",
+    "author": "zman1, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.coffeescreatures",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}

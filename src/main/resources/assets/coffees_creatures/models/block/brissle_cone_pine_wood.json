@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "coffees_creatures:blocks/brissle_cone_pine_wood_top",
+    "up": "coffees_creatures:blocks/brissle_cone_pine_wood_top",
+    "north": "coffees_creatures:blocks/brissle_cone_pine_wood_side",
+    "east": "coffees_creatures:blocks/brissle_cone_pine_wood_side",
+    "south": "coffees_creatures:blocks/brissle_cone_pine_wood_side",
+    "west": "coffees_creatures:blocks/brissle_cone_pine_wood_side",
+    "particle": "coffees_creatures:blocks/brissle_cone_pine_wood_top"
+  }
+}

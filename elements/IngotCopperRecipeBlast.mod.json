@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "xpReward": 0.6,
+    "cookingTime": 100,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:OreCopper"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:IngotCopper"
+    },
+    "name": "ingot_copper_recipe_blast",
+    "namespace": "mod"
+  }
+}

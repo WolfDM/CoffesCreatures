@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "coffees_creatures:block/brissle_cone_pine_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "coffees_creatures:block/brissle_cone_pine_wood"
+    },
+    "axis=z": {
+      "model": "coffees_creatures:block/brissle_cone_pine_wood",
+      "x": 90
+    }
+  }
+}
