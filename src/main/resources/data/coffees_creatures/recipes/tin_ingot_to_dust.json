@@ -1,0 +1,19 @@
+{
+  "group": "coffees_creatures",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "coffees_creatures:hammer"
+    },
+    "1": {
+      "item": "coffees_creatures:ingot_tin"
+    }
+  },
+  "result": {
+    "item": "coffees_creatures:tin_dust",
+    "count": 1
+  }
+}

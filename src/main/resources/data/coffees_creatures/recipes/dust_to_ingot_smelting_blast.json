@@ -1,0 +1,12 @@
+{
+  "group": "coffees_creatures",
+  "type": "minecraft:blasting",
+  "experience": 0.3,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "coffees_creatures:tin_dust"
+  },
+  "result": {
+    "item": "coffees_creatures:ingot_tin"
+  }
+}

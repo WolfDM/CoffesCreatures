@@ -374,6 +374,51 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dust_copper_smelting_blast"
+    },
+    {
+      "name": "TinDust",
+      "type": "item",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_dust"
+    },
+    {
+      "name": "TinOreToDust",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_ore_to_dust"
+    },
+    {
+      "name": "TinIngotToDust",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_ingot_to_dust"
+    },
+    {
+      "name": "DustToIngotSmelting",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dust_to_ingot_smelting"
+    },
+    {
+      "name": "DustToIngotSmeltingBlast",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dust_to_ingot_smelting_blast"
     }
   ],
   "variable_elements": [],
@@ -390,6 +435,7 @@
       "item.coffees_creatures.trader_npc_spawn_egg": "Trader NPC Spawn Egg",
       "itemGroup.tabcoffees_creatures_tab": "Coffee\u0027s Creatures ",
       "item.coffees_creatures.coin_platnium": "Coin Platnium",
+      "item.coffees_creatures.tin_dust": "Tin Dust",
       "item.coffees_creatures.ingot_copper": "Ingot Copper",
       "item.coffees_creatures.dust_copper": "Copper Dust",
       "item.coffees_creatures.coin_gold": "Coin Gold",

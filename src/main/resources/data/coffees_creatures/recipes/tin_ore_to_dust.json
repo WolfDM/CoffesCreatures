@@ -1,0 +1,16 @@
+{
+  "group": "coffees_creatures",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "coffees_creatures:hammer"
+    },
+    {
+      "item": "coffees_creatures:ore_tin"
+    }
+  ],
+  "result": {
+    "item": "coffees_creatures:tin_dust",
+    "count": 2
+  }
+}
