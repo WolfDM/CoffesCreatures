@@ -3,10 +3,10 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "gold",
+    "texture": "ingot_brass_texture",
     "customModelName": "Normal",
-    "name": "Gold Coin ",
-    "rarity": "UNCOMMON",
+    "name": "Brass Ingot ",
+    "rarity": "COMMON",
     "creativeTab": {
       "value": "CUSTOM:CoffeesCreaturesTab"
     },

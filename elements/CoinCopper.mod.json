@@ -5,7 +5,7 @@
     "renderType": 0,
     "texture": "copper",
     "customModelName": "Normal",
-    "name": "Coin Copper",
+    "name": "Copper Coin",
     "rarity": "COMMON",
     "creativeTab": {
       "value": "CUSTOM:CoffeesCreaturesTab"
