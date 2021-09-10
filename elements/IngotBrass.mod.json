@@ -3,9 +3,9 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "dust_brass_texture",
+    "texture": "ingot_brass_texture",
     "customModelName": "Normal",
-    "name": "Brass Dust",
+    "name": "Ingot Brass",
     "rarity": "COMMON",
     "creativeTab": {
       "value": "CUSTOM:CoffeesCreaturesTab"

@@ -1,0 +1,39 @@
+{
+  "group": "coffees_creatures",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "coffees_creatures:ingot_copper"
+    },
+    "2": {
+      "item": "coffees_creatures:ingot_copper"
+    },
+    "3": {
+      "item": "coffees_creatures:ingot_copper"
+    },
+    "4": {
+      "item": "coffees_creatures:ingot_copper"
+    },
+    "5": {
+      "item": "coffees_creatures:ingot_copper"
+    },
+    "6": {
+      "item": "coffees_creatures:ingot_copper"
+    },
+    "7": {
+      "item": "coffees_creatures:ingot_copper"
+    },
+    "8": {
+      "item": "coffees_creatures:ingot_copper"
+    }
+  },
+  "result": {
+    "item": "coffees_creatures:copper_armor_armor_chestplate",
+    "count": 1
+  }
+}

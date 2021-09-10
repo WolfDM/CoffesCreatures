@@ -3,9 +3,9 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "dust_brass_texture",
+    "texture": "dust_bronze_texture",
     "customModelName": "Normal",
-    "name": "Brass Dust",
+    "name": "Dust Bronze",
     "rarity": "COMMON",
     "creativeTab": {
       "value": "CUSTOM:CoffeesCreaturesTab"

@@ -421,15 +421,6 @@
       "registry_name": "dust_to_ingot_smelting_blast"
     },
     {
-      "name": "IngotBrass",
-      "type": "item",
-      "sortid": 41,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "ingot_brass"
-    },
-    {
       "name": "DustBrass",
       "type": "item",
       "sortid": 42,
@@ -545,6 +536,246 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "ingot_zinc_to_dust_recipe"
+    },
+    {
+      "name": "IngotBrass",
+      "type": "item",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ingot_brass"
+    },
+    {
+      "name": "DustIron",
+      "type": "item",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dust_iron"
+    },
+    {
+      "name": "OreIronToDust",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ore_iron_to_dust"
+    },
+    {
+      "name": "IngotIronToDust",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ingot_iron_to_dust"
+    },
+    {
+      "name": "DustIronSmeltingRecipe",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dust_iron_smelting_recipe"
+    },
+    {
+      "name": "DustIronSmeltingBlast",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dust_iron_smelting_blast"
+    },
+    {
+      "name": "CopperArmorArmor",
+      "type": "armor",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_armor_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "CopperArmorArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_armor_armor_helmet_recipe"
+    },
+    {
+      "name": "CopperArmorArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_armor_armor_body_recipe"
+    },
+    {
+      "name": "CopperArmorArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_armor_armor_leggings_recipe"
+    },
+    {
+      "name": "CopperArmorArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_armor_armor_boots_recipe"
+    },
+    {
+      "name": "PlatnumPickaxe",
+      "type": "tool",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platnum_pickaxe"
+    },
+    {
+      "name": "PlatnumAxe",
+      "type": "tool",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platnum_axe"
+    },
+    {
+      "name": "PlatnumSword",
+      "type": "tool",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platnum_sword"
+    },
+    {
+      "name": "PlatnumShovel",
+      "type": "tool",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platnum_shovel"
+    },
+    {
+      "name": "PlatnumHoe",
+      "type": "tool",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platnum_hoe"
+    },
+    {
+      "name": "PlatnumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platnum_pickaxe_recipe"
+    },
+    {
+      "name": "PlatnumAxeRecipe",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platnum_axe_recipe"
+    },
+    {
+      "name": "PlatnumSwordRecipe",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platnum_sword_recipe"
+    },
+    {
+      "name": "PlatnumShovelRecipe",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platnum_shovel_recipe"
+    },
+    {
+      "name": "PlatnumHoeRecipe",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platnum_hoe_recipe"
+    },
+    {
+      "name": "Bronze",
+      "type": "item",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bronze"
+    },
+    {
+      "name": "DustBronze",
+      "type": "item",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dust_bronze"
+    },
+    {
+      "name": "DustBronzeRecipe",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dust_bronze_recipe"
+    },
+    {
+      "name": "DustBronzeSmelting",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dust_bronze_smelting"
+    },
+    {
+      "name": "DustBronzeSmeltingBlast",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dust_bronze_smelting_blast"
     }
   ],
   "variable_elements": [],
@@ -553,28 +784,40 @@
     "en_us": {
       "item.coffees_creatures.boss_key": "Boss Key",
       "item.coffees_creatures.dust_zinc": "Zinc Dust ",
+      "item.coffees_creatures.platnum_shovel": "Platnum Shovel",
       "item.coffees_creatures.trader_npc_spawn_egg": "Trader NPC Spawn Egg",
+      "item.coffees_creatures.copper_armor_armor_leggings": "Copper Leggings",
       "item.coffees_creatures.tin_dust": "Tin Dust",
       "item.coffees_creatures.ingot_copper": "Ingot Copper",
       "item.coffees_creatures.dust_copper": "Copper Dust",
       "item.coffees_creatures.ingot_zinc": "Ingot Zinc",
+      "item.coffees_creatures.dust_iron": "Dust Iron",
+      "item.coffees_creatures.platnum_pickaxe": "Platnum Pickaxe",
+      "item.coffees_creatures.copper_armor_armor_boots": "Copper Boots",
+      "item.coffees_creatures.copper_armor_armor_helmet": "Copper Helmet",
       "item.coffees_creatures.ingot_platnum": "Ingot Platnum",
       "item.coffees_creatures.coffee": "Coffee",
       "item.coffees_creatures.hammer": "Hammer",
       "item.coffees_creatures.coin_copper": "Copper Coin",
       "entity.coffees_creatures.trader_npc": "Trader NPC",
+      "item.coffees_creatures.platnum_sword": "Platnum Sword",
+      "item.coffees_creatures.dust_bronze": "Dust Bronze",
       "block.coffees_creatures.ore_copper": "Copper Ore",
+      "item.coffees_creatures.platnum_hoe": "Platnum Hoe",
+      "item.coffees_creatures.bronze": "Bronze",
       "block.coffees_creatures.brissle_cone_pine_wood": "Brissle Cone Pine Wood",
       "item.coffees_creatures.ingot_tin": "Ingot Tin",
       "entity.coffees_creatures.seebee_npc": "Seebee NPC",
       "block.coffees_creatures.ore_zinc": "Ore Zinc",
       "item.coffees_creatures.coin_platnium": "Platnium Coin",
       "itemGroup.tabcoffees_creatures_tab": "Coffee\u0027s Creatures ",
-      "item.coffees_creatures.ingot_brass": "Brass Ingot ",
+      "item.coffees_creatures.ingot_brass": "Ingot Brass",
       "item.coffees_creatures.coin_gold": "Gold Coin ",
+      "item.coffees_creatures.copper_armor_armor_chestplate": "Copper Chestplate",
+      "item.coffees_creatures.platnum_axe": "Platnum Axe",
       "block.coffees_creatures.ore_tin": "Ore Tin",
       "block.coffees_creatures.ore_platnum": "Ore Platnum",
-      "item.coffees_creatures.dust_brass": "Dust Brass",
+      "item.coffees_creatures.dust_brass": "Brass Dust",
       "item.coffees_creatures.coffee_npc_spawn_egg": "Coffee NPC Spawn Egg",
       "item.coffees_creatures.seebee_npc_spawn_egg": "Seebee NPC Spawn Egg",
       "entity.coffees_creatures.coffee_npc": "Coffee NPC",
@@ -583,12 +826,7 @@
   },
   "foldersRoot": {
     "name": "~",
-    "children": [
-      {
-        "name": "Creatures",
-        "children": []
-      }
-    ]
+    "children": []
   },
   "workspaceSettings": {
     "modid": "coffees_creatures",

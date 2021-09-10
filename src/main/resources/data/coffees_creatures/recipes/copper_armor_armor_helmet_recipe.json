@@ -1,0 +1,29 @@
+{
+  "group": "coffees_creatures",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "coffees_creatures:ingot_copper"
+    },
+    "1": {
+      "item": "coffees_creatures:ingot_copper"
+    },
+    "2": {
+      "item": "coffees_creatures:ingot_copper"
+    },
+    "3": {
+      "item": "coffees_creatures:ingot_copper"
+    },
+    "5": {
+      "item": "coffees_creatures:ingot_copper"
+    }
+  },
+  "result": {
+    "item": "coffees_creatures:copper_armor_armor_helmet",
+    "count": 1
+  }
+}

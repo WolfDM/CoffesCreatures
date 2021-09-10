@@ -3,12 +3,12 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "dust_brass_texture",
+    "texture": "dust_iron_texture",
     "customModelName": "Normal",
-    "name": "Brass Dust",
+    "name": "Dust Iron",
     "rarity": "COMMON",
     "creativeTab": {
-      "value": "CUSTOM:CoffeesCreaturesTab"
+      "value": "MISC"
     },
     "stackSize": 64,
     "enchantability": 0,

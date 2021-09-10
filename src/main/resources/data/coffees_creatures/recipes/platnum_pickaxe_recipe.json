@@ -1,0 +1,30 @@
+{
+  "group": "coffees_creatures",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "coffees_creatures:ingot_platnum"
+    },
+    "1": {
+      "item": "coffees_creatures:ingot_platnum"
+    },
+    "2": {
+      "item": "coffees_creatures:ingot_platnum"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "coffees_creatures:platnum_pickaxe",
+    "count": 1
+  }
+}
